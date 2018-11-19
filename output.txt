@@ -1,0 +1,23 @@
+Name                Comp   Att    Yds    TD     Int    Passer rating
+Bryce Petty         130    245    1353   4      10     57.75  
+Jimmy Garoppolo     236    361    2968   17     8      97.28  
+Matt Moore          586    983    6938   45     36     81.17  
+AJ McCarron         87     136    928    6      2      92.4   
+Ryan Mallett        190    345    1835   9      10     66.76  
+Landry Jones        108    169    1310   8      7      86.16  
+Robert Griffin III  766    1210   8983   42     26     88.39  
+Alex Tanney         10     14     99     1      0      114.88 
+Tom Savage          181    315    2000   5      7      72.45  
+Scott Tolzien       88     146    1065   2      9      61.59  
+Mark Sanchez        1295   2285   15219  86     86     73.93  
+Kellen Clemens      350    638    4053   16     21     68.91  
+Ryan Nassib         9      10     128    1      0      163.75 
+Dan Orlovsky        298    512    3132   15     13     75.26  
+Teddy Bridgewater   551    852    6150   28     22     86.25  
+Brian Hoyer         838    1411   9902   48     30     83.3   
+Matt Schaub         2098   3281   24887  133    90     89.06  
+Derek Anderson      909    1674   10878  60     64     70.43  
+Luke McCown         216    356    2370   9      15     71.25  
+Matt Barkley        174    291    2143   10     18     68.28  
+Thad Lewis          115    189    1296   5      4      81.36  
+Sean Mannion        31     50     235    0      1      65.0   
